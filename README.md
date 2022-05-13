@@ -22,12 +22,9 @@ Society Management System is the website portal designed to reduce conflicts amo
 
 <!-- CONTRIBUTING -->
 ## Contributions
-- Bhavesh Ghanchi - <a></a>
-- Soham Dubewar- <a></a>
-- Ashwin Nair - <a></a>
-
- <!-- CONTACT -->
-## Contact
+- Bhavesh Ghanchi - <a>https://github.com/bhaveshGhanchi</a>
+- Soham Dubewar- <a>https://github.com/sohamdubewar</a>
+- Ashwin Nair - <a>https://github.com/DarkLord125</a>
 
 
 
