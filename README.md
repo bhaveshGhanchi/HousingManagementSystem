@@ -15,6 +15,9 @@ Society Management System is the website portal designed to reduce conflicts amo
 
 #### Login Page
 
+
+#### Admin dashboard
+
 #### Member dashboard
 
 #### Staff dashboard
