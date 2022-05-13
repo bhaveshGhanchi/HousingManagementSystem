@@ -10,17 +10,7 @@ Society Management System is the website portal designed to reduce conflicts amo
 * Php
 * MySQL
 
-<!-- ABOUT THE PROJECT -->
-#### Home Page
 
-#### Login Page
-
-
-#### Admin dashboard
-
-#### Member dashboard
-
-#### Staff dashboard
 
 
 <!-- CONTRIBUTING -->
